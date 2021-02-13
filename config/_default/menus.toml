@@ -22,14 +22,14 @@
   weight = 30
 
 [[main_right]]
-  name = "<i class=\"fas fa-globe-americas\"></i> "
-  post = "Localization"
+  pre = "<i class=\"fas fa-globe-americas\"></i> "
+  name = "Localization"
   url = "https://crowdin.com/project/crow-translate"
   weight = 10
 
 [[main_right]]
-  name = "<i class=\"fab fa-github-alt\"></i> "
-  post = "GitHub"
+  pre = "<i class=\"fab fa-github-alt\"></i> "
+  name = "GitHub"
   url = "https://github.com/crow-translate"
   weight = 20
 
