@@ -21,12 +21,6 @@
   url = "commands"
   weight = 30
 
-[[main]]
-  pre = "<i class=\"fas fa-newspaper\"></i> "
-  name = "Changelog"
-  url = "https://github.com/crow-translate/crow-translate/blob/master/CHANGELOG.md"
-  weight = 40
-  
 [[main_right]]
   name = "<i class=\"fas fa-globe-americas\"></i> "
   post = "Localization"

@@ -31,12 +31,6 @@
    url = "commands"
    weight = 30
 
- [[ru.menu.main]]
-   pre = "<i class=\"fas fa-newspaper\"></i> "
-   name = "Изменения"
-   url = "https://github.com/crow-translate/crow-translate/blob/master/CHANGELOG.md"
-   weight = 40
-  
  [[ru.menu.main_right]]
    name = "<i class=\"fas fa-globe-americas\"></i> "
    post = "Локализация"
@@ -72,12 +66,6 @@
    url = "commands"
    weight = 30
 
- [[es.menu.main]]
-   pre = "<i class=\"fas fa-newspaper\"></i> "
-   name = "Novedades"
-   url = "https://github.com/crow-translate/crow-translate/blob/master/CHANGELOG.md"
-   weight = 40
- 
  [[es.menu.main_right]]
    name = "<i class=\"fas fa-globe-americas\"></i> "
    post = "Traducción"
