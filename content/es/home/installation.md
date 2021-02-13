@@ -24,6 +24,8 @@ Las descargas están disponibles en la página de [Publicaciones](https://github
 sudo scoop install crow-translate -g
 ```
 
+**Nota:** Windows requiere [Microsoft Visual C++ Redistributable 2019](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) para funcionar.
+
 ### Linux
 
 #### Arch Linux, Manjaro, Chakra, etc
