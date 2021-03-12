@@ -2,7 +2,7 @@
 widget = "hero"
 weight = 1
 title = "Crow Translate"
-hero_media = "screenshots/main.png"
+hero_media = "screenshots/plasma/main-es.png"
 
 [cta]
   url = "#installation"
