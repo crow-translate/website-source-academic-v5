@@ -5,7 +5,7 @@ title = "Установка"
 
 [design.spacing]
   padding = ["10px", "0", "10px", "0"]
-  
+
 [design]
   columns = "1"
 +++
@@ -18,13 +18,13 @@ title = "Установка"
 
 ### Windows
 
+**Примечание:** Для Windows требуется [Microsoft Visual C++ Redistributable 2019](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0).
+
 :package: [Пакет Scoop](https://github.com/lukesampson/scoop-extras/blob/master/bucket/crow-translate.json)
 
 ```bash
 sudo scoop install crow-translate -g
 ```
-
-**Примечание:** Для Windows требуется [Microsoft Visual C++ Redistributable 2019](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0).
 
 ### Linux
 

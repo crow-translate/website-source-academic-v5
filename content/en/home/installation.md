@@ -18,13 +18,13 @@ Downloads are available on the [Releases](https://github.com/crow-translate/crow
 
 ### Windows
 
+**Note:** Windows requires [Microsoft Visual C++ Redistributable 2019](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) to work.
+
 :package: [Scoop package](https://github.com/lukesampson/scoop-extras/blob/master/bucket/crow-translate.json)
 
 ```bash
 sudo scoop install crow-translate -g
 ```
-
-**Note:** Windows requires [Microsoft Visual C++ Redistributable 2019](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) to work.
 
 ### Linux
 
