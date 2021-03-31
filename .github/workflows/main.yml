@@ -6,8 +6,6 @@ jobs:
     steps:
     - name: Clone repo
       uses: actions/checkout@v2.3.4
-      with:
-        submodules: true
 
     - name: Run Hugo
       uses: crazy-max/ghaction-hugo@v1.3.3
