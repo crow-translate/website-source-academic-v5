@@ -28,6 +28,8 @@ sudo scoop install crow-translate -g
 
 ### Linux
 
+**Nota:** Per rendere l'applicazione nativa e senza icone mancanti su un ambiente desktop non KDE, è necessario configurare lo stile delle applicazioni Qt. Questa operazione può essere eseguita utilizzando [qt5ct](https://github.com/RomanVolak/qt5ct) o [adwaita-qt5](https://github.com/FedoraQt/adwaita-qt) o [qtstyleplugins](https://github.com/qt/qtstyleplugins). Si prega di controllare la guida all'installazione appropriata per la propria distribuzione.
+
 #### Arch Linux, Manjaro, Chakra, etc
 
 :package: [Versión estable en AUR](https://aur.archlinux.org/packages/crow-translate)
