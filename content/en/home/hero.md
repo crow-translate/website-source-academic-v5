@@ -18,6 +18,6 @@ hero_media = "screenshots/plasma/main.png"
   label = '<a class="js-github-release" href="https://github.com/crow-translate/crow-translate/releases/latest" data-repo="crow-translate/crow-translate">Latest release<!-- V --></a>'
 +++
 
-A simple and lightweight translator that allows to translate and speak text using Google, Yandex and Bing.
+A simple and lightweight translator that allows you to translate and speak text using Google, Yandex and Bing.
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/crow-translate/crow-translate" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
