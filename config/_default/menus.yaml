@@ -1,0 +1,36 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Screenshots
+    pre: '<i class="fas fa-images"></i> '
+    url: screenshots
+    weight: 10
+
+  - name: Shortcuts
+    pre: '<i class="fas fa-keyboard"></i> '
+    url: shortcuts
+    weight: 20
+
+  - name: Commands
+    pre: '<i class="fas fa-terminal"></i> '
+    url: commands
+    weight: 30
+
+main_right:
+  - name: Localization
+    pre: '<i class="fas fa-globe-americas"></i> '
+    url: 'https://crowdin.com/project/crow-translate'
+    weight: 10
+
+  - name: GitHub
+    pre: '<i class="fab fa-github-alt"></i> '
+    url: 'https://github.com/crow-translate'
+ 
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70   weight: 20
