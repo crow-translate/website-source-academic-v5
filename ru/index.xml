@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crow Translate</title>
+    <link>https://crow-translate.github.io/ru/</link>
+      <atom:link href="https://crow-translate.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Crow Translate</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><copyright>© 2018-2021 Hennadii Chernyshchyk</copyright>
+    <image>
+      <url>https://crow-translate.github.io/media/sharing.svg</url>
+      <title>Crow Translate</title>
+      <link>https://crow-translate.github.io/ru/</link>
+    </image>
+    
+    <item>
+      <title>Горячие клавиши</title>
+      <link>https://crow-translate.github.io/ru/shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://crow-translate.github.io/ru/shortcuts/</guid>
+      <description>&lt;p&gt;Вы можете изменить эти горячие клавиши в настройках. Некоторые комбинации клавиш могут быть недоступны из-за ограничений ОС.&lt;/p&gt;
+&lt;p&gt;Wayland не поддерживает глобальные горячие клавиши, но вы можете использовать &lt;a href=&#34;#d-bus-api&#34;&gt;D-Bus&lt;/a&gt; для назначения действий в настройках системы. Для окружений рабочего стола, которые поддерживают &lt;a href=&#34;https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html#extra-actions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;дополнительные действия приложений&lt;/a&gt; (KDE, например) вы увидите уже предопределенные горячие клавиши в системных настройках. Вы также можете использовать их для X11 сессии, но вам нужно отключить регистрацию глобальных горячих клавиш в настройках приложения для избежания конфликтов.&lt;/p&gt;
+&lt;h2 id=&#34;глобальные&#34;&gt;Глобальные&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Комбинация&lt;/th&gt;
+&lt;th&gt;Описание&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;Alt&lt;/kbd&gt; + &lt;kbd&gt;E&lt;/kbd&gt;&lt;/td&gt;
+&lt;td&gt;Перевести выделенный текст&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;Alt&lt;/kbd&gt; + &lt;kbd&gt;S&lt;/kbd&gt;&lt;/td&gt;
+&lt;td&gt;Озвучить выделенный текст&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;Alt&lt;/kbd&gt; + &lt;kbd&gt;F&lt;/kbd&gt;&lt;/td&gt;
+&lt;td&gt;Озвучить перевод выделенного текста&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;Alt&lt;/kbd&gt; + &lt;kbd&gt;G&lt;/kbd&gt;&lt;/td&gt;
+&lt;td&gt;Остановить озвучивание текста&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;Alt&lt;/kbd&gt; + &lt;kbd&gt;C&lt;/kbd&gt;&lt;/td&gt;
+&lt;td&gt;Показать главное окно&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;Alt&lt;/kbd&gt; + &lt;kbd&gt;I&lt;/kbd&gt;&lt;/td&gt;
+&lt;td&gt;Распознать текст в области экрана&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;Alt&lt;/kbd&gt; + &lt;kbd&gt;O&lt;/kbd&gt;&lt;/td&gt;
+&lt;td&gt;Перевести текст в области экрана&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;в-главном-окне&#34;&gt;В главном окне&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Комбинация&lt;/th&gt;
+&lt;th&gt;Описание&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;Return&lt;/kbd&gt;&lt;/td&gt;
+&lt;td&gt;Перевести&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;R&lt;/kbd&gt;&lt;/td&gt;
+&lt;td&gt;Поменять языки местами&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;Q&lt;/kbd&gt;&lt;/td&gt;
+&lt;td&gt;Закрыть окно&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;S&lt;/kbd&gt;&lt;/td&gt;
+&lt;td&gt;Воспроизвести / приостановить озвучивание исходного текста&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;Shift&lt;/kbd&gt; + &lt;kbd&gt;S&lt;/kbd&gt;&lt;/td&gt;
+&lt;td&gt;Воспроизвести / приостановить озвучивание перевода&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;Shift&lt;/kbd&gt; + &lt;kbd&gt;C&lt;/kbd&gt;&lt;/td&gt;
+&lt;td&gt;Скопировать перевод в буфер обмена&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;d-bus-api&#34;&gt;D-Bus API&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;io.crow_translate.CrowTranslate
+├── /io/crow_translate/CrowTranslate/Ocr
+|   └── method void io.crow_translate.CrowTranslate.Ocr.setParameters(QVariantMap parameters);
+└── /io/crow_translate/CrowTranslate/MainWindow
+    |   # Global shortcuts
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.translateSelection();
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.speakSelection();
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.speakTranslatedSelection();
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.stopSpeaking();
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.open();
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.copyTranslatedSelection();
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.recognizeScreenArea();
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.translateScreenArea();
+    |   # Main window shortcuts
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.clearText();
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.cancelOperation();
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.swapLanguages();
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.openSettings();
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.setAutoTranslateEnabled(bool enabled);
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.copySourceText();
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.copyTranslation();
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.copyAllTranslationInfo();
+    └── method void io.crow_translate.CrowTranslate.MainWindow.quit();
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Например, вы можете показать главное окно с помощью &lt;code&gt;dbus-send&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;dbus-send --type=method_call --dest=io.crow_translate.CrowTranslate /io/crow_translate/CrowTranslate/MainWindow io.crow_translate.CrowTranslate.MainWindow.open
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;или с помощью &lt;code&gt;qdbus&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;qdbus io.crow_translate.CrowTranslate /io/crow_translate/CrowTranslate/MainWindow io.crow_translate.CrowTranslate.MainWindow.open
+# или более короткая запись
+qdbus io.crow_translate.CrowTranslate /io/crow_translate/CrowTranslate/MainWindow open
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Консольные команды</title>
+      <link>https://crow-translate.github.io/ru/commands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://crow-translate.github.io/ru/commands/</guid>
+      <description>&lt;p&gt;Программа также имеет консольный интерфейс&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Использование:&lt;/strong&gt; &lt;code&gt;crow [опции] текст&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Опция&lt;/th&gt;
+&lt;th&gt;Описание&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;-h, --help&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Показать справку&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;-v, --version&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Показать информацию о версии&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;-c, --codes&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Показать все коды языков&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;-s, --source &amp;lt;code&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Указать язык исходного текста (по умолчанию движок попытается определить язык самостоятельно)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;-t, --translation &amp;lt;code&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Указать язык(и) перевода, разделенные символом &amp;lsquo;+&amp;rsquo; (по умолчанию используется язык системы)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;-l, --locale &amp;lt;code&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Указать язык переводчика (по умолчанию используется системный язык)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;-e, --engine &amp;lt;engine&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Указать движок переводчика (&amp;lsquo;google&amp;rsquo;, &amp;lsquo;yandex&amp;rsquo; или &amp;lsquo;bing&amp;rsquo;), Google используется по умолчанию&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;-p, --speak-translation&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Озвучить перевод&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;-u, --speak-source&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Озвучить исходный текст&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;-f, --file&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Считать исходный текст из файлов. Аргументы будут интерпретироваться как пути к файлам&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;-i, --stdin&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Добавить данные из stdin в исходный текст&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;-a, --audio-only&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Показывать только текст для озвучивания при использовании  &lt;code&gt;--speak-translation&lt;/code&gt; or &lt;code&gt;--speak-source&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;-b, --brief&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Печатать только перевод&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;-j, --json&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Печатать вывод в формате JSON&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Примечание:&lt;/strong&gt; Если не передать программе аргументы запуска, то запустится графический интерфейс.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Скриншоты</title>
+      <link>https://crow-translate.github.io/ru/screenshots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://crow-translate.github.io/ru/screenshots/</guid>
+      <description>&lt;h3 id=&#34;plasma&#34;&gt;Plasma&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-plasma&#34; href=&#34;https://crow-translate.github.io/media/albums/plasma/main.png&#34; &gt;
+      &lt;img src=&#34;https://crow-translate.github.io/media/albums/plasma/main_hu69eb367b6a11fe63a7ce52a36d0280cc_36771_0x190_resize_lanczos_2.png&#34; loading=&#34;lazy&#34; alt=&#34;main.png&#34; width=&#34;487&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-plasma&#34; href=&#34;https://crow-translate.github.io/media/albums/plasma/popup.png&#34; &gt;
+      &lt;img src=&#34;https://crow-translate.github.io/media/albums/plasma/popup_hu8268b70a434b15746f29aa7750d1272b_64632_0x190_resize_lanczos_2.png&#34; loading=&#34;lazy&#34; alt=&#34;popup.png&#34; width=&#34;257&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-plasma&#34; href=&#34;https://crow-translate.github.io/media/albums/plasma/settings.png&#34; &gt;
+      &lt;img src=&#34;https://crow-translate.github.io/media/albums/plasma/settings_huff406032f984c919a8409205f744ef51_46853_0x190_resize_lanczos_2.png&#34; loading=&#34;lazy&#34; alt=&#34;settings.png&#34; width=&#34;234&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+&lt;h3 id=&#34;windows-10&#34;&gt;Windows 10&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-windows&#34; href=&#34;https://crow-translate.github.io/media/albums/windows/main.png&#34; &gt;
+      &lt;img src=&#34;https://crow-translate.github.io/media/albums/windows/main_hu0210d83b6c164eb2e156d5c4df27ade6_20288_0x190_resize_lanczos_2.png&#34; loading=&#34;lazy&#34; alt=&#34;main.png&#34; width=&#34;455&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-windows&#34; href=&#34;https://crow-translate.github.io/media/albums/windows/popup.png&#34; &gt;
+      &lt;img src=&#34;https://crow-translate.github.io/media/albums/windows/popup_hu89ff0018f7f9e7680fe990fe1b674b6d_60805_0x190_resize_lanczos_2.png&#34; loading=&#34;lazy&#34; alt=&#34;popup.png&#34; width=&#34;232&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-windows&#34; href=&#34;https://crow-translate.github.io/media/albums/windows/settings.png&#34; &gt;
+      &lt;img src=&#34;https://crow-translate.github.io/media/albums/windows/settings_huf2b1dd926b86b3013484fcc83b6c4444_35617_0x190_resize_lanczos_2.png&#34; loading=&#34;lazy&#34; alt=&#34;settings.png&#34; width=&#34;233&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+&lt;h3 id=&#34;plasma-mobile&#34;&gt;Plasma Mobile&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-plasma-mobile&#34; href=&#34;https://crow-translate.github.io/media/albums/plasma-mobile/main-landscape.png&#34; &gt;
+      &lt;img src=&#34;https://crow-translate.github.io/media/albums/plasma-mobile/main-landscape_hu2fbf2f3f6f93d5626cc9b432ba29d31a_74682_0x190_resize_lanczos_2.png&#34; loading=&#34;lazy&#34; alt=&#34;main-landscape.png&#34; width=&#34;380&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-plasma-mobile&#34; href=&#34;https://crow-translate.github.io/media/albums/plasma-mobile/main-portrait.png&#34; &gt;
+      &lt;img src=&#34;https://crow-translate.github.io/media/albums/plasma-mobile/main-portrait_hu5d755e6ecd29a55275d81c66728f644f_70808_0x190_resize_lanczos_2.png&#34; loading=&#34;lazy&#34; alt=&#34;main-portrait.png&#34; width=&#34;95&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-plasma-mobile&#34; href=&#34;https://crow-translate.github.io/media/albums/plasma-mobile/settings-landscape.png&#34; &gt;
+      &lt;img src=&#34;https://crow-translate.github.io/media/albums/plasma-mobile/settings-landscape_hu03dd6f374b0fff42809ef70a518fe7a4_52213_0x190_resize_lanczos_2.png&#34; loading=&#34;lazy&#34; alt=&#34;settings-landscape.png&#34; width=&#34;380&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-plasma-mobile&#34; href=&#34;https://crow-translate.github.io/media/albums/plasma-mobile/settings-portrait.png&#34; &gt;
+      &lt;img src=&#34;https://crow-translate.github.io/media/albums/plasma-mobile/settings-portrait_hu4a466e00620291e5b0425cd6e77f4c53_42622_0x190_resize_lanczos_2.png&#34; loading=&#34;lazy&#34; alt=&#34;settings-portrait.png&#34; width=&#34;95&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

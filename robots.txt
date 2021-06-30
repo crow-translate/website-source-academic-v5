@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://crow-translate.github.io/sitemap.xml
