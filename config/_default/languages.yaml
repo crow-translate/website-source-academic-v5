@@ -12,61 +12,73 @@ ru:
   contentDir: content/ru
   params:
     description: Простой и легковесный переводчик, который позволяет переводить и озвучивать текст с помощью Google, Yandex и Bing.
-  main:
-    - name: Скриншоты
-      pre: '<i class="fas fa-images"></i> '
-      url: screenshots
-      weight: 10
+  menu:
+    main:
+      - name: Скриншоты
+        pre: '<i class="fas fa-images"></i> '
+        url: screenshots
+        weight: 10
 
-    - name: Горячие клавиши
-      pre: '<i class="fas fa-keyboard"></i> '
-      url: shortcuts
-      weight: 20
+      - name: Горячие клавиши
+        pre: '<i class="fas fa-keyboard"></i> '
+        url: shortcuts
+        weight: 20
 
-    - name: Команды
-      pre: '<i class="fas fa-terminal"></i> '
-      url: commands
-      weight: 30
+      - name: Команды
+        pre: '<i class="fas fa-terminal"></i> '
+        url: commands
+        weight: 30
 
-  main_right:
-    - name: Локализация
-      pre: '<i class="fas fa-globe-americas"></i> '
-      url: 'https://crowdin.com/project/crow-translate'
-      weight: 10
+    main_right:
+      - name: Локализация
+        pre: '<i class="fas fa-globe-americas"></i> '
+        url: 'https://crowdin.com/project/crow-translate'
+        weight: 10
 
-    - name: GitHub
-      pre: '<i class="fab fa-github-alt"></i> '
-      url: 'https://github.com/crow-translate'
-      weight: 20
+      - name: GitHub
+        pre: '<i class="fab fa-github-alt"></i> '
+        url: 'https://github.com/crow-translate'
+        weight: 20
+
+      - name: Пожертвовать
+        pre: '<i class="fas fa-donate"></i> '
+        url: 'https://opencollective.com/crow-translate'
+        weight: 30
 
 es:
   languageCode: es-es
   contentDir: content/es
   params:
     description: Un traductor simple y ligero que permite traducir y reproducir de manera hablada el texto utilizando Google, Yandex o Bing.
-  main:
-    - name: Capturas de pantalla
-      pre: '<i class="fas fa-images"></i> '
-      url: screenshots
-      weight: 10
+  menu:
+    main:
+      - name: Capturas de pantalla
+        pre: '<i class="fas fa-images"></i> '
+        url: screenshots
+        weight: 10
 
-    - name: Atajos de teclado
-      pre: '<i class="fas fa-keyboard"></i> '
-      url: shortcuts
-      weight: 20
+      - name: Atajos de teclado
+        pre: '<i class="fas fa-keyboard"></i> '
+        url: shortcuts
+        weight: 20
 
-    - name: Comandos
-      pre: '<i class="fas fa-terminal"></i> '
-      url: commands
-      weight: 30
+      - name: Comandos
+        pre: '<i class="fas fa-terminal"></i> '
+        url: commands
+        weight: 30
 
-  main_right:
-     - name: Traducción
-       pre: '<i class="fas fa-globe-americas"></i> '
-       url: 'https://crowdin.com/project/crow-translate'
-       weight: 10
+    main_right:
+       - name: Traducción
+         pre: '<i class="fas fa-globe-americas"></i> '
+         url: 'https://crowdin.com/project/crow-translate'
+         weight: 10
 
-     - name: GitHub
-       pre: '<i class="fab fa-github-alt"></i> '
-       url: 'https://github.com/crow-translate'
-       weight: 20
+       - name: GitHub
+         pre: '<i class="fab fa-github-alt"></i> '
+         url: 'https://github.com/crow-translate'
+         weight: 20
+
+       - name: Donar
+         pre: '<i class="fas fa-donate"></i> '
+         url: 'https://opencollective.com/crow-translate'
+         weight: 30

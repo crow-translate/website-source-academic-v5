@@ -28,7 +28,13 @@ main_right:
   - name: GitHub
     pre: '<i class="fab fa-github-alt"></i> '
     url: 'https://github.com/crow-translate'
+    weight: 20
  
+  - name: Donate
+    pre: '<i class="fas fa-donate"></i> '
+    url: 'https://opencollective.com/crow-translate'
+    weight: 30
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
