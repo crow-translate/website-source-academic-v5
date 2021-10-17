@@ -273,6 +273,10 @@
 &lt;td&gt;Speak translation of selected text&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td&gt;&lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;Alt&lt;/kbd&gt; + &lt;kbd&gt;D&lt;/kbd&gt;&lt;/td&gt;
+&lt;td&gt;Speak / pause speaking&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;&lt;kbd&gt;Ctrl&lt;/kbd&gt; + &lt;kbd&gt;Alt&lt;/kbd&gt; + &lt;kbd&gt;G&lt;/kbd&gt;&lt;/td&gt;
 &lt;td&gt;Stop speaking&lt;/td&gt;
 &lt;/tr&gt;
@@ -334,6 +338,7 @@
     ├── method void io.crow_translate.CrowTranslate.MainWindow.translateSelection();
     ├── method void io.crow_translate.CrowTranslate.MainWindow.speakSelection();
     ├── method void io.crow_translate.CrowTranslate.MainWindow.speakTranslatedSelection();
+    ├── method void io.crow_translate.CrowTranslate.MainWindow.playPauseSpeaking();
     ├── method void io.crow_translate.CrowTranslate.MainWindow.stopSpeaking();
     ├── method void io.crow_translate.CrowTranslate.MainWindow.open();
     ├── method void io.crow_translate.CrowTranslate.MainWindow.copyTranslatedSelection();
