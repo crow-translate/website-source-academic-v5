@@ -18,6 +18,6 @@ hero_media = "main.png"
   label = '<a class="js-github-release" href="https://github.com/crow-translate/crow-translate/releases/latest" data-repo="crow-translate/crow-translate">Последний релиз<!-- V --></a>'
 +++
 
-Простой и легковесный переводчик, который позволяет переводить и озвучивать текст с помощью Google, Yandex и Bing.
+Простой и легковесный переводчик, который позволяет переводить и озвучивать текст с помощью Google, Yandex, Bing, LibreTranslate и Lingva.
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/crow-translate/crow-translate" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>

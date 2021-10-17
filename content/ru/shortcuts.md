@@ -8,15 +8,16 @@ Wayland не поддерживает глобальные горячие кла
 
 ## Глобальные
 
-| Комбинация                                      | Описание                            |
-| ----------------------------------------------- | ----------------------------------- |
-| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>E</kbd> | Перевести выделенный текст          |
-| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd> | Озвучить выделенный текст           |
-| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd> | Озвучить перевод выделенного текста |
-| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd> | Остановить озвучивание текста       |
-| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>C</kbd> | Показать главное окно               |
-| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>I</kbd> | Распознать текст в области экрана   |
-| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd> | Перевести текст в области экрана    |
+| Комбинация                                      | Описание                                  |
+| ----------------------------------------------- | ----------------------------------------- |
+| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>E</kbd> | Перевести выделенный текст                |
+| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd> | Озвучить выделенный текст                 |
+| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd> | Озвучить перевод выделенного текста       |
+| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>D</kbd> | Воспроизвести / приостановить озвучивание |
+| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd> | Остановить озвучивание текста             |
+| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>C</kbd> | Показать главное окно                     |
+| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>I</kbd> | Распознать текст в области экрана         |
+| <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd> | Перевести текст в области экрана          |
 
 ## В главном окне
 
@@ -39,6 +40,7 @@ Wayland не поддерживает глобальные горячие кла
         ├── method void io.crow_translate.CrowTranslate.MainWindow.translateSelection();
         ├── method void io.crow_translate.CrowTranslate.MainWindow.speakSelection();
         ├── method void io.crow_translate.CrowTranslate.MainWindow.speakTranslatedSelection();
+        ├── method void io.crow_translate.CrowTranslate.MainWindow.playPauseSpeaking();
         ├── method void io.crow_translate.CrowTranslate.MainWindow.stopSpeaking();
         ├── method void io.crow_translate.CrowTranslate.MainWindow.open();
         ├── method void io.crow_translate.CrowTranslate.MainWindow.copyTranslatedSelection();
