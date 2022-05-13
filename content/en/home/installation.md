@@ -115,3 +115,11 @@ sudo zypper install crow-translate
 ```bash
 sudo eopkg it crow-translate
 ```
+
+#### Flatpak
+
+:package: [Flathub](https://flathub.org/apps/details/io.crow_translate.CrowTranslate)
+
+```bash
+flatpak install flathub io.crow_translate.CrowTranslate
+```
